@@ -1,5 +1,9 @@
 # Medalha de Rank 🏅
 
+### Link para visualizar o projeto: 
+https://dio-calculadora-de-rankeada.vercel.app/
+##
+
 Este projeto é uma aplicação simples que simula um sistema de ranks baseado no número de vitórias e derrotas de um jogador. O sistema atribui um rank (como Ferro, Bronze, Ouro, Diamante, Lendário, Imortal) com base no número de vitórias em relação às derrotas, e exibe uma medalha correspondente a cada rank.
 
 ## Funcionalidades

@@ -4,7 +4,7 @@
   margin: 0 ;
 }
 
-@keyframes subirDescer {
+@keyframes medalAnimation {
   0% {
     transform: translateY(0);
   }
@@ -38,7 +38,7 @@
   border-radius: 0  0 50% 50%;
   text-align: center;
   padding: 8px;
-  animation: subirDescer 3s ease-in-out infinite;
+  animation: medalAnimation 3s ease-in-out infinite;
 }
 
 .rank-medal.iron {
@@ -55,12 +55,8 @@
 
 .rank-medal.silver {
   background: linear-gradient(to bottom right, #c0c0c0 1%, #8a8a8a 60%);
-  color: #8a8a8a;
-  border-right: 12px solid #a6a6a6;
-}
-
-.rank-medal.silver h4 {
-  color: #a6a6a6;
+  color: #c0c0c0;
+  border-right: 12px solid #c0c0c0;
 }
 
 .rank-medal.gold {
